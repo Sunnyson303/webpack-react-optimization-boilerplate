@@ -1,0 +1,1 @@
+window.Recharts = require('recharts')
